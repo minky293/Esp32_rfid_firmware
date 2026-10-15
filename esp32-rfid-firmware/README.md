@@ -5,7 +5,7 @@
 # 🏷️ ESP32 RFID MQTT Authentication Project
 
 [![status](https://img.shields.io/badge/status-active-success.svg)]()
-[![pull requests](https://img.shields.io/badge/pull%20requests-0%20open-blue.svg)]()
+[![pull requests](https://img.shields.io/badge/pull%20requests-0%20open-blue)](https://github.com/minky293/Esp32_rfid_firmware/pulls)
 [![license](https://img.shields.io/badge/license-MIT-green.svg)]()
 
 ---
