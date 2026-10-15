@@ -1,5 +1,5 @@
 # 🏷️ ESP32 RFID MQTT Authentication Project
-![Esp32 RFID mqtt](images/connection-icon.jpg)
+![System Archi](https://raw.githubusercontent.com/minky293/Esp32_rfid_firmware/main/images/conntion.jpg)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 A project involves creating a device that uses an ESP32 microcontroller to read RFID tags and publish data via MQTT, allowing for wireless identification and authentication.
@@ -48,8 +48,7 @@ The project includes source code for an RFID Reader with the following requireme
 ---
 
 ## 📖 Hardware Schematic / Wiring Diagram
-![System Archi](images/setup.jpg)
-
+![System Archi](https://raw.githubusercontent.com/minky293/Esp32_rfid_firmware/main/images/setup.jpg)
 | MFRC522 Pin | ESP32 GPIO Pin |
 | :--- | :--- |
 | SDA (SS) | GPIO 5 |
@@ -61,7 +60,7 @@ The project includes source code for an RFID Reader with the following requireme
 | 3.3V | 3.3V |
 
 ---
-![Successful Connection on MQTT](image/mqtt-connect.png)
+![Successful Conection](https://raw.githubusercontent.com/minky293/Esp32_rfid_firmware/main/images/mqtt-connect.png)
 ## 💻 Software Concept
 
 The project utilizes the ESP32's SPI interface to communicate with the MFRC522 module:
