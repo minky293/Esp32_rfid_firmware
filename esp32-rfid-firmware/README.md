@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/minky293/Esp32_rfid_firmware/main/images/conntion-icon.jpg" alt="Connection Icon" width="600"/>
+  <img src="https://raw.githubusercontent.com/minky293/Esp32_rfid_firmware/main/esp32-rfid-firmware/images/conntion-icon.jpg" alt="Connection Icon" width="600"/>
 </p>
 
 # 🏷️ ESP32 RFID MQTT Authentication Project
@@ -37,7 +37,7 @@ To get started with this project, clone the repository and open it in your prefe
 ## 📦 Hardware Schematic / Wiring Diagram
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/minky293/Esp32_rfid_firmware/main/images/setup.jpg" alt="Hardware Setup" width="600"/>
+  <img src="https://raw.githubusercontent.com/minky293/Esp32_rfid_firmware/main/esp32-rfid-firmware/images/setup.jpg" alt="Hardware Setup" width="600"/>
 </p>
 
 | MFRC522 Pin | ESP32 GPIO Pin |
@@ -48,7 +48,7 @@ To get started with this project, clone the repository and open it in your prefe
 | MISO | GPIO 19 |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/minky293/Esp32_rfid_firmware/main/images/mqtt-connect.png" alt="MQTT Connection" width="600"/>
+  <img src="https://raw.githubusercontent.com/minky293/Esp32_rfid_firmware/main/esp32-rfid-firmware/images/mqtt-connect.png" alt="MQTT Connection" width="600"/>
 </p>
 
 ---
