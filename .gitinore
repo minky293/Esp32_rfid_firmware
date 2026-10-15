@@ -1,0 +1,16 @@
+# Build files
+build/
+out/
+*.elf
+*.bin
+*.hex
+
+# Editor files
+.vscode/
+.DS_Store
+.Thumbs.db
+
+# Secret credentials
+secrets.h
+credentials.joson
+.env
